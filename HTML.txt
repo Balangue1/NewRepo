@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>This is my title</title>
+  </head>
+  <h1>Hello World!</h1>
+  <body>
+    <img src="https://www.google.com/search?q=puppy+image&tbm=isch&source=iu&ictx=1&fir=WRw9Hwzh5IWNZM%253A%252C6X-8hJPMEgDVNM%252C_&usg=__8nNbtm6YYYku8btr9LioSm2Gb-I%3D&sa=X&ved=0ahUKEwjX9Y635-XaAhXJ11MKHZQKDG8Q9QEIKzAA&biw=1280&bih=893#">
+    <br>
+    <a href="https://www.google.com" target="_blank">Opens new tab</a>
+    <a href="#">This is a placeholder link, goes no where for now</a>
+    <a href=
+  </body>
+</html>
